@@ -1,1 +1,1 @@
-# Idkj
+duplicate the 28.zip file Into 16 and Select all of them and Compress them Into One And Name it 29.zip (To Make it Simpler), Which Gives you a 67.85MB File Containing 10⁴⁷ Of Bytes Or 340 Quadrillion Quettabytes Of Data, To put that Into Perspective A Quettabyte Is 10³⁰, U can Possibly Duplicate the 29.zip File But It is Over a Gigabyte, I already Have the 29.zip But Github Has a Limit for Uploading Files
